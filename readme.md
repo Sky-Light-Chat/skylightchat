@@ -1,10 +1,6 @@
 # SkyLight Chat
 
 <p align="center">
-  <img src="https://skylightchat.com/logo.png" alt="SkyLight Chat" width="180">
-</p>
-
-<p align="center">
   <strong>The Complete AI Customer Communication Platform</strong><br>
   Omnichannel Messaging • Voice AI • CRM • AI Agents • Automation • Knowledge Base • Scheduling
 </p>
@@ -531,9 +527,9 @@ https://dashboard.skylightchat.com
 
 https://docs.skylightchat.com
 
-📞 Contact Sales
+📞 Halla - Ai Voice Call
 
-https://skylightchat.com/contact
+https://halla.skylightchat.com/
 
 ---
 
