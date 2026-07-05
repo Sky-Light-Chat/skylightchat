@@ -1,7 +1,7 @@
 # SkyLight Chat
 
 <p align="center">
-  <strong>The Complete AI Customer Communication Platform</strong><br>
+  <strong>The Complete Saudi AI Customer Communication Platform for MENA</strong><br>
   Omnichannel Messaging • Voice AI • CRM • AI Agents • Automation • Knowledge Base • Scheduling
 </p>
 
