@@ -549,6 +549,5 @@ All trademarks, logos, branding, and intellectual property belong to their respe
 
 <p align="center">
 Made with ❤️ by the SkyLight Chat Team
-
 https://skylightchat.com
 </p>
