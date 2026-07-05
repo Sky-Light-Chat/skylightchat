@@ -17,7 +17,7 @@
 
 SkyLight Chat is an all-in-one AI-powered customer engagement platform designed to help businesses centralize conversations, automate customer interactions, increase conversions, and deliver exceptional customer support across every communication channel.
 
-Instead of managing separate tools for WhatsApp, Instagram, Facebook Messenger, Telegram, Web Chat, Voice Calls, CRM, Scheduling, Marketing Campaigns, AI Agents, and Customer Support, SkyLight Chat brings everything together into one intelligent platform.
+Instead of managing separate tools for WhatsApp, Instagram, Linkedin, Telegram, Web Chat, Voice Calls, CRM, Scheduling, Marketing Campaigns, AI Agents, and Customer Support, SkyLight Chat brings everything together into one intelligent platform.
 
 Businesses can automate repetitive tasks, instantly answer customer questions, qualify leads, schedule appointments, process orders, and provide 24/7 support while maintaining a natural human-like experience.
 
@@ -34,6 +34,7 @@ SkyLight Chat combines multiple business solutions into one platform.
 - Voice AI
 - Website Chat Widget
 - Appointment Booking
+- Shop orders
 - Marketing Campaigns
 - Workflow Automation
 - Lead Management
@@ -51,14 +52,14 @@ Manage every customer conversation from one inbox.
 
 - WhatsApp Business
 - Instagram
-- Facebook Messenger
+- Facebook Messenger (soon)
 - Telegram
 - Website Live Chat
 - Voice Calls
-- Email *(where available)*
+- X (soon)
+- Email (soon)
 - LinkedIn
-- Future communication channels through integrations
-
+- SMS (soon)
 ---
 
 # Unified Inbox
@@ -156,7 +157,7 @@ Ideal for:
 - Salons
 - Retail
 - Government services
-
+- Any Business that requires direct conversation.
 ---
 
 # CRM
@@ -431,7 +432,6 @@ Examples include:
 - Meta Platforms
 - Telegram
 - LinkedIn
-- Google Calendar
 - APIs
 - Webhooks
 - Third-party systems
